@@ -69,7 +69,7 @@ app/src/main/
 
 ---
 
-**Auteur** : Étudiant  
-**Professeur** : [Nom du prof]  
-**Année** : 2026  
-**TP** : Client REST Android Retrofit
+**Auteur** : Ettouyjer yasmine 
+**Professeur** : Mr.Mohamed Lechgar
+**Date** :  le 11-01-2026
+
