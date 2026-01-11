@@ -69,6 +69,8 @@ app/src/main/
 
 ---
 
+<img width="177" height="228" alt="Screen 1 demo" src="https://github.com/user-attachments/assets/0dc8bc67-d135-4d0e-9fac-2070729ca823" />
+
 **Auteur** : Ettouyjer yasmine 
 **Professeur** : Mr.Mohamed Lechgar
 **Date** :  le 11-01-2026
